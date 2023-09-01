@@ -1,5 +1,6 @@
 # SPORE: A Storybreaking Machine
 
+- [Daniel Roßner](mailto:daniel.roossner@iisys.de), [Claus Atzenbeck](mailto:claus.atzenbeck@iisys.de), Sam Brooker
 - Read the paper here: [ACM DL](https://doi.org/10.1145/3603163.3609075)
 - Visit the application here: [SPORE](https://human.iisys.de/nxtweb) (registration is open, no real mail needed, use the token "hypertext", laptop or tablet recommended)
 
@@ -80,4 +81,4 @@ e.g. plan your trip to the best conference:
 
 or browse a knowledge base about scientific (hypertext) literature:
 
-<a href="sample_ht.png"><img src="rome_plan.png" width="100%" /></a>
+<a href="sample_ht.png"><img src="sample_ht.png" width="100%" /></a>
