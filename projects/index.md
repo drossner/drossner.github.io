@@ -22,8 +22,8 @@ of storybreaking that already exists in the creative industries.
 
 ## Demo-Media
 
-<video src='1_workspace.mp4' width=400 loop controls autoplay></video>
+<video src='1_workspace.mp4' width="100%" loop controls autoplay></video>
 
 
 
-<img src="rome_plan.png" width=400 />
+<a href="rome_plan.png"><img src="rome_plan.png" width=100% /></a>
