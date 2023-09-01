@@ -26,4 +26,4 @@ of storybreaking that already exists in the creative industries.
 
 
 
-<a href="rome_plan.png"><img src="rome_plan.png" width=100% /></a>
+<a href="rome_plan.png"><img src="rome_plan.png" width="100%" /></a>
