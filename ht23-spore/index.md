@@ -52,7 +52,7 @@ gives an overview..
 
 <img src="sample_kb_process.png" width="100%">
 
-.. or checkout a sample excpert for 'stepmother':
+.. or checkout a sample excerpt for 'stepmother':
 
 <p align="center">
     <img src="sample_kb_excerpt.png" width="60%">
