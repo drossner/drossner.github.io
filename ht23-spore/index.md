@@ -2,7 +2,7 @@
 
 - [Daniel Roßner](mailto:daniel.roossner@iisys.de), [Claus Atzenbeck](mailto:claus.atzenbeck@iisys.de), Sam Brooker
 - Read the paper here: [ACM DL](https://doi.org/10.1145/3603163.3609075)
-- Visit the application here: [SPORE](https://human.iisys.de/nxtweb) (registration is open, no real mail needed, use the token "hypertext", laptop or tablet recommended)
+- Visit the application here: [SPORE](https://human.iisys.de/nxtweb) (~registration is open~)
 
 Keywords: 
  - hypertext
